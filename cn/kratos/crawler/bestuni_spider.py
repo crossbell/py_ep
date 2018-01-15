@@ -1,6 +1,6 @@
 '''
     最好大学spider
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 from cn.kratos.crawler import bestuni_html_outer
 from cn.kratos.crawler import bestuni_html_parser
