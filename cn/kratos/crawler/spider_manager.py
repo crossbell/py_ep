@@ -1,6 +1,6 @@
 '''
     爬虫调度器
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 from cn.kratos.crawler import url_download
 from cn.kratos.crawler import url_manager
