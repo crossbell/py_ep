@@ -1,6 +1,6 @@
 '''
     URL下载器
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 import requests
 
