@@ -1,7 +1,7 @@
 '''
     URL管理器
 
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 from cn.kratos.crawler import mongo_util
 
