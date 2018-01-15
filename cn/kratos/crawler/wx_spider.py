@@ -1,6 +1,6 @@
 '''
     微信公众号spider
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 from cn.kratos.crawler import wx_html_outer
 from cn.kratos.crawler import wx_html_parser
