@@ -1,6 +1,6 @@
 '''
     html页面解析器
-    作者：liangwang16@creditease
+    作者：crossbell
 '''
 import re
 from bs4 import BeautifulSoup as bs
