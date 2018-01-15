@@ -1,6 +1,6 @@
 '''
     百度百科spider
-    作者：liangwang16@creditease.cn
+    作者：crossbell
 '''
 from cn.kratos.crawler import bk_html_outer
 from cn.kratos.crawler import bk_html_parser
